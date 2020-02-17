@@ -11,8 +11,9 @@
 * Twitter Comments
 
 ## Data Analysis & Visualization
-* Kaggle Survey
-* Melbourne Housing
+* Exploratory Data Analysis: United States National Parks
+* Data Visualization: Melbourne Housing
+* Inferential Statistics: 
 
 ## Additional Projects
 * Predicting Car Prices
