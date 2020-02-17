@@ -11,12 +11,17 @@
 * Twitter Comments
 
 ## Data Analysis & Visualization
-* Exploratory Data Analysis: United States National Parks
-* Data Visualization: Melbourne Housing
-* Inferential Statistics: 
+* Python
+
+* R
+	* Exploratory Data Analysis: Biodiversity in National Parks
+	* Data Visualization: Melbourne Housing
+	* Inferential Statistics: 
 
 ## Additional Projects
-* Predicting Car Prices
-* Identifying Heart Disease
-* Movie Recommendation
-* MNIST Image Classification (TODO)
+* Python
+	* Identifying Heart Disease
+	* Movie Recommendation
+	* MNIST Image Classification (TODO)
+* R
+	* Predicting Car Prices
