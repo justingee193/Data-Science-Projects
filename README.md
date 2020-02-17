@@ -1,9 +1,10 @@
 # Data-Science-Projects
 
 ## Machine Learning
-* Predicting Car Prices
-* Predicting Heart Disease
-* Movie Recommendation
+* KNN and GMM proj
+* SVM, Decision Tree, PCA?
+* Random Forest and Gradient Boosting or XGB
+* Another Imaging classification using Tensor
 
 ## Natural Language Processing
 * Reddit Trends
@@ -15,5 +16,6 @@
 
 ## Additional Projects
 * Predicting Car Prices
-* MNIST Image Classification
+* Identifying Heart Disease
 * Movie Recommendation
+* MNIST Image Classification (TODO)
