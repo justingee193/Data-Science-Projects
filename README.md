@@ -4,9 +4,8 @@
 * ## Machine Learning
 	* KNN and GMM proj
 	* SVM, Decision Tree, PCA?
-	* Random Forest and Gradient Boosting or XGB
+	* Graduate Admissions: Decision Tree, SVR, Gradient Boost
 	* Another Imaging classification using Tensor
-
 * ## Natural Language Processing
 	* Reddit Trends
 	* Twitter Comments
