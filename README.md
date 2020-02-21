@@ -2,26 +2,26 @@
 
 # Content
 * ## Machine Learning
-	* KNN and GMM proj
-	* SVM, Decision Tree, PCA?
-	* Graduate Admissions: Decision Tree, SVR, Gradient Boost
-	* Another Imaging classification using Tensor
+	* KNN and GMM proj (Classification)
+	* SVM, Decision Tree, PCA? (Classification)
+	* Graduate Admissions: Decision Tree, SVR, Gradient Boost (Regression)
+	* Another Imaging classification using Tensor (Classification)
 * ## Natural Language Processing
 	* Reddit Trends
 	* Twitter Comments
-
 * ## Data Analysis & Visualization
 	* Python
 
 	* R
 		* Exploratory Data Analysis: Biodiversity in National Parks
-		* Data Visualization: Melbourne Housing
+		* Data Visualization: 
 		* Inferential Statistics: 
 
 	* ## Additional Projects
 	* Python
-		* Identifying Heart Disease
-		* Movie Recommendation
-		* MNIST Image Classification (TODO)
+		* Identifying Heart Disease (Classification)
+		* Movie Recommendation (Classification)
+		* MNIST Image Classification (TODO) (Classification)
 	* R
-		* Predicting Car Prices
+		* Predicting Car Prices (Regression)
+		* Predicting Forest Fire Damage (Regression)
