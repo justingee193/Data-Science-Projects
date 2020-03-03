@@ -25,4 +25,4 @@
 		* MNIST Image Classification (TODO) (Classification)
 	* R
 		* Predicting Car Prices (Regression)
-		* Predicting Forest Fire Damage (Regression)
+		* Predicting Housing Prices (Regression)
