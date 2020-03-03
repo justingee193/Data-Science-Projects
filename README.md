@@ -16,6 +16,7 @@
 		* Exploratory Data Analysis: Biodiversity in National Parks
 		* Data Visualization: 
 		* Inferential Statistics: 
+	* Tableau
 
 	* ## Additional Projects
 	* Python
