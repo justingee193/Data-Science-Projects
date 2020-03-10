@@ -25,4 +25,4 @@
 		* MNIST Image Classification (TODO) (Classification)
 	* R
 		* Predicting Car Prices (Regression)
-		* Predicting Housing Prices (Regression)
+		* [Melbourne Housing Market](https://rpubs.com/justingee193/rproj_rf_dt): Using Decision Trees and Random Forests to predict the price of a home in Melbourne, Australia.
