@@ -20,7 +20,7 @@
 
 	* ## Additional Projects
 	* Python
-		* [Heart Disease](https://github.com/justingee193/Data-Science-Projects/tree/master/heart-disease): Using Logistic Regression to predict whether an individual has or does not have heart disease.
+		* [Heart Disease](https://github.com/justingee193/Data-Science-Projects/blob/master/heart-disease/heart-disease.ipynb): Using Logistic Regression to predict whether an individual has or does not have heart disease.
 		* Movie Recommendation (Classification)
 		* MNIST Image Classification (TODO) (Classification)
 	* R
