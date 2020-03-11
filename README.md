@@ -24,5 +24,5 @@
 		* Movie Recommendation (Classification)
 		* MNIST Image Classification (TODO) (Classification)
 	* R
-		* Predicting Car Prices (Regression)
+		* [Car Prices](https://rpubs.com/justingee193/rprof_lm): Using Linear Regression to predict the price of a car give its features.
 		* [Melbourne Housing Market](https://rpubs.com/justingee193/rproj_rf_dt): Using Decision Trees and Random Forests to predict the price of a home in Melbourne, Australia.
