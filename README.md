@@ -4,7 +4,7 @@
 * ## Machine Learning
 	* KNN and GMM proj (Classification)
 	* SVM, Decision Tree, PCA? (Classification)
-	* Graduate Admissions: Decision Tree, SVR, Gradient Boost (Regression)
+	* [Graduate Admissions](https://github.com/justingee193/Data-Science-Projects/blob/master/graduate-admissions/graduate-admissions.ipynb): Created an optimized model to predict an individual's chance of acceptance to graduate school. Identified the strongest components to a graduate admissions application utilizing machine learning.
 	* Another Imaging classification using Tensor (Classification)
 * ## Natural Language Processing
 	* Reddit Trends
