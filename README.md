@@ -11,7 +11,7 @@
 	* Twitter Comments
 * ## Data Analysis & Visualization
 	* Python
-
+		* [Student Performance Dataset - Exploratory Analysis](https://github.com/justingee193/Data-Science-Projects/blob/master/student-performance/student-performance.ipynb): Exploratory analysis of student information, focusing on student grades, social and school related activities using Seaborn visualizations.
 	* R
 		* Exploratory Data Analysis: Biodiversity in National Parks
 		* Data Visualization: 
