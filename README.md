@@ -4,14 +4,14 @@
 * ## Machine Learning
 	* KNN and GMM proj (Classification)
 	* SVM, Decision Tree, PCA? (Classification)
-	* [Graduate Admissions](https://github.com/justingee193/Data-Science-Projects/blob/master/graduate-admissions/graduate-admissions.ipynb): Created an optimized model to predict an individual's chance of acceptance to graduate school. Identified the strongest components to a graduate admissions application utilizing machine learning.
+	* [Graduate Admissions](https://github.com/justingee193/Data-Science-Projects/blob/master/graduate-admissions.ipynb): Created an optimized model to predict an individual's chance of acceptance to graduate school. Identified the strongest components to a graduate admissions application utilizing machine learning.
 	* Another Imaging classification using Tensor (Classification)
 * ## Natural Language Processing
 	* Reddit Trends
 	* Twitter Comments
 * ## Data Analysis & Visualization
 	* Python
-		* [Student Performance Dataset - Exploratory Analysis](https://github.com/justingee193/Data-Science-Projects/blob/master/student-performance/student-performance.ipynb): Exploratory analysis of student information, focusing on student grades, social and school related activities using Seaborn visualizations.
+		* [Student Performance Dataset - Exploratory Analysis](https://github.com/justingee193/Data-Science-Projects/blob/master/student-performance.ipynb): Exploratory analysis of student information, focusing on student grades, social and school related activities using Seaborn visualizations.
 	* R
 		* Exploratory Data Analysis: Biodiversity in National Parks
 		* Data Visualization: 
@@ -20,7 +20,7 @@
 
 	* ## Additional Projects
 	* Python
-		* [Heart Disease](https://github.com/justingee193/Data-Science-Projects/blob/master/heart-disease/heart-disease.ipynb): Using Logistic Regression to predict whether an individual has or does not have heart disease.
+		* [Heart Disease](https://github.com/justingee193/Data-Science-Projects/blob/master/heart-disease.ipynb): Using Logistic Regression to predict whether an individual has or does not have heart disease.
 		* Movie Recommendation (Classification)
 		* MNIST Image Classification (TODO) (Classification)
 	* R
