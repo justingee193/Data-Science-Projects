@@ -8,7 +8,7 @@
 	* Python
 		* [Student Performance Dataset - Exploratory Analysis](https://github.com/justingee193/Data-Science-Projects/blob/master/student-performance.ipynb): Exploratory analysis of student information, focusing on student grades, social and school related activities using Seaborn visualizations.
 
-	* ## Additional Projects
+* ## Additional Projects
 	* Python
 		* [Heart Disease](https://github.com/justingee193/Data-Science-Projects/blob/master/heart-disease.ipynb): Using Logistic Regression to predict whether an individual has or does not have heart disease.
 	* R
